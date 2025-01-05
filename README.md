@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation using Azure VM](https://github.com/raymondvan16/Install-osTicket-with-Azure-VM)
   - [osTicket Password Reset](https://github.com/raymondvan16/osTicket-password-reset)
-  - [osTicket: Installation using Azure VM](https://github.com/raymondvan16/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
