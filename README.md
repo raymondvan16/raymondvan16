@@ -5,9 +5,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation using Azure VM](https://github.com/raymondvan16/Install-osTicket-with-Azure-VM)
   - [osTicket Password Reset](https://github.com/raymondvan16/osTicket-password-reset)
-
+  - [osTicket Password Reset](https://github.com/raymondvan16/osTicket-password-reset)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/raymond-van-751795327/
