@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation using Azure VM](https://github.com/raymondvan16/Install-osTicket-with-Azure-VM)
-  - [osTicket: Ticekt Example and response](https://github.com/raymondvan16/osTicket--lifecycle-examples-setup)
+  - [osTicket: Ticket Example and response](https://github.com/raymondvan16/osTicket--lifecycle-examples-setup)
   - [Configure/Setup SLAs with osTicket](https://github.com/raymondvan16/Configure-SLA-on-osTicket)
 <h2>🤳Connect with me:</h2>
 
