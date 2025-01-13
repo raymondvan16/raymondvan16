@@ -6,7 +6,7 @@
   - [osTicket: Installation using Azure VM](https://github.com/raymondvan16/Install-osTicket-with-Azure-VM)
   - [osTicket: Ticket Example and response](https://github.com/raymondvan16/osTicket--lifecycle-examples-setup)
   - [Configure/Setup SLAs with osTicket](https://github.com/raymondvan16/Configure-SLA-on-osTicket)
-- <b>Active Directory (Help Desk Ticketing System)</b>
+- <b>Active Directory</b>
 
 <h2>🤳Connect with me:</h2>
 
