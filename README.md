@@ -7,8 +7,8 @@
   - [osTicket: Ticket Example and response](https://github.com/raymondvan16/osTicket--lifecycle-examples-setup)
   - [Configure/Setup SLAs with osTicket](https://github.com/raymondvan16/Configure-SLA-on-osTicket)
 - <b>Active Directory</b>
-- [Configure and deploy Active Direcotry using Azure VM](https://github.com/raymondvan16/configure-ad)
-- 
+  - [Configure and deploy Active Direcotry using Azure VM](https://github.com/raymondvan16/configure-ad)
+  - 
 <h2>🤳Connect with me:</h2>
 
 
