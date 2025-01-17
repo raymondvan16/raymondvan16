@@ -8,7 +8,7 @@
   - [Configure/Setup SLAs with osTicket](https://github.com/raymondvan16/Configure-SLA-on-osTicket)
 - <b>Active Directory</b>
   - [Configure and deploy Active Direcotry using Azure VM](https://github.com/raymondvan16/configure-ad)
-  - 
+  - [Configure Account Lockout Threshold in Group Policy](https://github.com/raymondvan16/Configure-Account-Lock-out-Threshold-in-group-policy)
 <h2>🤳Connect with me:</h2>
 
 
